@@ -1,0 +1,27 @@
+{
+    
+
+
+    "files.associations": {
+        "lvgl.h": "c",
+        "gui_guider.h": "c",
+        "page.h": "c",
+        "string.h": "c",
+        "events_init.h": "c",
+        "custom.h": "c",
+        "sdl.h": "c",
+        "system_error": "c",
+        "widgets_init.h": "c"
+    },
+
+
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "lvgl"
+    ],
+    "cSpell.words": [
+        "sysvers"
+    ],
+
+
+}
